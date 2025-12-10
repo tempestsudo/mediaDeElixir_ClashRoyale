@@ -7,4 +7,7 @@ Curso/Plataforma: Cisco Networking Academy
 > Para executar o projeto, basta fazer o dowload dos arquivos e os colocar dentro de uma pasta e abrir o index.html.
 > Após abrir o index.html aperta Ctrl + Shift + I e vá até a sessão console, e siga as orientações exibidas nele!
 
+* JavaScript
+* HTML
+  
 !- BETA -! 
